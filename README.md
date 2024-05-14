@@ -1,6 +1,5 @@
 # Number Classifier
 
-## Description
 The Number Classifier is a simple C++ program that prompts the user to input a number and then determines whether the number is positive, negative, or zero. It's designed to help beginners understand basic programming concepts such as conditional statements, input/output operations, and basic arithmetic operations in C++.
 
 ## Features
